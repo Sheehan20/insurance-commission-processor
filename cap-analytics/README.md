@@ -99,7 +99,7 @@ The normalized data follows this schema:
 
 ```bash
 # Run all tests
-pytest tests/ -v
+pytest tests/test_assignment.py
 
 # Run specific test category
 
