@@ -45,8 +45,8 @@ This project provides a solution for processing and analyzing insurance commissi
 ### Running the Data Processing Pipeline
 
 ```python
-# Process all carriers and generate reports
-python -m pytest tests/test_commission_processing.py -v
+# Run all tests
+python cap-analytics/main.py
 ```
 
 ### Expected Outputs
@@ -98,8 +98,6 @@ The normalized data follows this schema:
 ## Testing
 
 ```bash
-# Run all tests
-python cap-analytics/main.py
 
 # Run specific test category
 
