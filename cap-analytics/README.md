@@ -26,7 +26,7 @@ This project provides a solution for processing and analyzing insurance commissi
 2. **Data Processing** (`src/`)
 
    - `normalizer.py`: Data cleaning and standardization
-   - `analyzer.py`: Commission analytics and reporting
+   - `performance_analyzer.py`: Commission analytics and reporting
 
 3. **Tests** (`tests/`)
    - Comprehensive test suite for parsing, normalization, and analytics
