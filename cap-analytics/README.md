@@ -99,7 +99,7 @@ The normalized data follows this schema:
 
 ```bash
 # Run all tests
-pytest tests/test_assignment.py
+python cap-analytics/main.py
 
 # Run specific test category
 
